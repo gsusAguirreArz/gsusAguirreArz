@@ -47,8 +47,21 @@
 
 <br />
 
-## GitHub stats 📈:
+## Github Stats 📈:
+
+<details>
+
+  <summary>Stats</summary>
 
 [![Gsus GitHub stats](https://github-readme-stats.vercel.app/api?username=gsusAguirreArz&show_icons=true&theme=radical)](https://github.com/gsusAguirreArz)
 
+
+</details>
+
+<details>
+
+  <summary>Most used languages</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsusAguirreArz&theme=radical)](https://github.com/gsusAguirreArz)
+
+</details>
